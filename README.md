@@ -33,3 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainahmad21200612&show_icons=true&locale=en" alt="hussainahmad21200612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad21200612&" alt="hussainahmad21200612" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HussainAhmad21200612&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/HussainAhmad21200612/blob/output/github-contribution-grid-snake.svg)
