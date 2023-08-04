@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 <h1 align="center">Hi 👋, I'm HUSSAIN AHMAD</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <div align="center"> <img width="100%" src="https://raw.githubusercontent.com//HussainAhmad21200612/HussainAhmad21200612/main/github-banner.png"> </div>
@@ -41,5 +36,5 @@
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=HussainAhmad21200612&limit=5&theme=flat&combine_all_yearly_contributions=true) -->
 <!-- ### 📈 My GitHub Contributions-->
-<!-- ![snake gif](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/output/github-contribution-grid-snake.gif)  -->
+![snake gif](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/output/github-contribution-grid-snake.gif) 
 
