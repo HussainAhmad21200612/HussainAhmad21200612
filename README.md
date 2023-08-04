@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hussain109164@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/resume%20(3)%20(1)%20(1).pdf](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/resume%20(3)%20(1)%20(1).pdf)
+- 📄 Know about my experiences [https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/resume%20(3)%20(1)%20(1).pdf](RESUME)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +36,6 @@
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HussainAhmad21200612&limit=5&theme=flat&combine_all_yearly_contributions=true)
 -->
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/output/github-contribution-grid-snake.svg) 
+<!-- ### 📈 My GitHub Contributions
+![Snake animation](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/output/github-contribution-grid-snake.svg)  -->
 
