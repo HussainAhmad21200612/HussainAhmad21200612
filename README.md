@@ -66,7 +66,7 @@
 
 ## Languages and Tools:
 
-<p align="left"> <a href="https://github.com/hussainahmad21200612"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,css,express,git,github,html,js,nodejs,mongodb,vscode"> </a> </p>
+<p align="left"> <a href="https://github.com/hussainahmad21200612"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,express,git,github,nodejs,mongodb,atom,vscode"> </a> </p>
 
 ## My Stats:
 <p align="center">
