@@ -43,17 +43,19 @@
 <p align="right" style="margin-left🕥"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainahmad21200612&show_icons=true&locale=en&layout=compact" alt="hussainahmad21200612" /></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussainahmad21200612&show_icons=true&locale=en" alt="hussainahmad21200612" /></p>
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad21200612" alt="hussainahmad21200612"  /></p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### 🔝 Top Contributed Repo
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=HussainAhmad21200612&limit=5&theme=flat&combine_all_yearly_contributions=true) -->
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=HussainAhmad21200612&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="hussainahmad21200612"  /></p>
 ### 📈 My GitHub Contributions with some animations 🐍
+
+ <!-- <p align="center"><img src="https://github.com/hussainahmad21200612/hussainahmad21200612/blob/output/github-contribution-grid-snake-dark.svg" alt="hussainahmad21200612"  /></p>-->
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hussainahmad21200612/hussainahmad21200612/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hussainahmad21200612/hussainahmad21200612/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
