@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **hussain109164@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/HUSSAIN%20FINAL%20RESUME.pdf)
+- 📄 Know about my experiences [RESUME](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/Hussain%20Ahmad%20FINAL%20RESUME.pdf)
 
 ## Connect with me
 <p align="left">
