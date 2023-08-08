@@ -36,7 +36,7 @@
 - 📫 How to reach me **hussain109164@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/hussain%20final%20resume%20(1).pdf)
-
+<a href="./hussain final resume.pdf" download>Download</a>
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/yephussainhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuphussainhere" height="30" width="40" /></a>
