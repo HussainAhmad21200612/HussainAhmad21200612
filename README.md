@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Let's%20Connect%20and%20have%20a%20Chat!%20🚀💬&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </h1>
 
-<h1 align="center">I'm <a href="https://my-profile-beryl-chi.vercel.app/" target="_blank">HUSSAIN AHMAD</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
+<h1 align="center">I'm <a href="https://my-profile-beryl-chi.vercel.app/" target="blank">HUSSAIN AHMAD</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <!-- <div align="center"> <img width="100%" src="https://raw.githubusercontent.com//HussainAhmad21200612/HussainAhmad21200612/main/github-banner.png"> </div> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
