@@ -70,7 +70,7 @@
 
 ## My Top Languages:
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainahmad21200612&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" alt="hussainahmad21200612" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainahmad21200612&hide_border=true&show_icons=true&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=151515" alt="hussainahmad21200612" />
 </p>
 ## My Stats:
 <p align="center">
