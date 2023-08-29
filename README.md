@@ -40,7 +40,7 @@
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/yephussainhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuphussainhere" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hussain-ahmad-62040a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain ahmad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hussainahmad6092/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/yuphussainishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuphussainishere" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hussain212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hussain212" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hussain109164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hussain109164" height="30" width="40" /></a>
