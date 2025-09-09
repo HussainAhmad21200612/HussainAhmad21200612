@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Let's%20Connect%20and%20have%20a%20Chat!%20🚀💬&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Let's%20Connect%20and%20have%20a%20Chat!%20%F0%9F%9A%80%F0%9F%92%AC&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </h1>
+
 
 <h1 align="center">I'm <a href="https://hussain-ahmad-profile.vercel.app/" target="blank">HUSSAIN AHMAD</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
