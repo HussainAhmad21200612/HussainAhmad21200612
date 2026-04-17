@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **hussain109164@gmail.com**
 
-- 📄 Know about my experiences [RESUME]((https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/Hussain_IITJ_Resume_2026.pdf))
+- 📄 Know about my experiences [RESUME](https://github.com/HussainAhmad21200612/HussainAhmad21200612/blob/main/Hussain_IITJ_Resume_2026.pdf)
 
 
 ## Connect with me
