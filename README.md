@@ -29,9 +29,9 @@
 
 ## What I'm Doing
 
-- 🔭 I’m currently working on [DSA](https://github.com/HussainAhmad21200612/DSA.git)
+- 🔭 I’m currently working on [Quantum Machine Learning](https://github.com/HussainAhmad21200612/QML.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **QSVM**
 
 - 📫 How to reach me **hussain109164@gmail.com**
 
