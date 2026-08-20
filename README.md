@@ -70,28 +70,39 @@
 <p align="left"> <a href="https://github.com/hussainahmad21200612"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,express,git,github,nodejs,mongodb,atom,vscode"> </a> </p>
 
 ## My Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hussainahmad21200612&layout=compact&theme=gruvbox&hide_border=true" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad21200612&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
-## My Stats:
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hussainahmad21200612&show_icons=true&theme=gruvbox&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainahmad21200612&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
 
 ## Activity On GitHub:
 
 <p align="center">
-  <a href="https://github.com/hussainahmad212006120">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad21200612&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+  <a href="https://github.com/hussainahmad21200612">
+    <img src="https://streak-stats.demolab.com/?user=hussainahmad21200612&theme=dark&hide_border=true"/>
+  </a>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hussainahmad21200612&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
-## Top Respositorys:
+## Top Repositories
 
-<p align="center"><img title="s" alt="top-repos" src="https://github-contributor-stats.vercel.app/api?username=HussainAhmad21200612&limit=5&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515&stroke=f53b3b&combine_all_yearly_contributions=true" alt="hussainahmad21200612"  /></p>
+<p align="center">
+  <a href="https://github.com/hussainahmad21200612/RAaHH">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=RAaHH&theme=gruvbox&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/hussainahmad21200612/Xlate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=Xlate&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
   
 ## 📈 My GitHub Contributions with some animations 🐍
 
