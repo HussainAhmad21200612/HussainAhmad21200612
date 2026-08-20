@@ -71,38 +71,25 @@
 
 ## My Top Languages:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad21200612&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad21200612&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/hussainahmad21200612)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussainahmad21200612&show_icons=true&theme=gruvbox&hide_border=true" />
-</p>
+## My Stats:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussainahmad21200612&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/hussainahmad21200612)
 
 ## Activity On GitHub:
 
-<p align="center">
-  <a href="https://github.com/hussainahmad21200612">
-    <img src="https://streak-stats.demolab.com/?user=hussainahmad21200612&theme=dark&hide_border=true"/>
-  </a>
-</p>
-## 🏆 GitHub Trophies
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hussainahmad21200612&theme=dark&hide_border=true)](https://github.com/hussainahmad21200612)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hussainahmad21200612&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+## 🏆 GitHub Trophies:
 
-## Top Repositories
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hussainahmad21200612&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)](https://github.com/hussainahmad21200612)
 
-<p align="center">
-  <a href="https://github.com/hussainahmad21200612/RAaHH">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=RAaHH&theme=gruvbox&hide_border=true" />
-  </a>
+## Top Repositories:
 
-  <a href="https://github.com/hussainahmad21200612/Xlate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=Xlate&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
+[![RAaHH](https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=RAaHH&theme=gruvbox&hide_border=true)](https://github.com/hussainahmad21200612/RAaHH)
+
+[![Xlate](https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=Xlate&theme=gruvbox&hide_border=true)](https://github.com/hussainahmad21200612/Xlate)
   
 ## 📈 My GitHub Contributions with some animations 🐍
 
