@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/hussainahmad21200612"> <img src="https://komarev.com/ghpvc/?username=hussainahmad21200612&style=for-the-badge&color=brightgreen"> </a>
+         [![](https://visitcount.itsvg.in/api?id=HussainAhmad21200612&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
       </td>
     </tr>
   </table>
