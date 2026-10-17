@@ -13,17 +13,16 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" align="right" />
-<table>
+<!-- <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
+      <th>Profile Views</th> 
       <th>Total Count</th>
     </tr>
     <tr>
       <td>
-         [![](https://visitcount.itsvg.in/api?id=HussainAhmad21200612&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+        
       </td>
-    </tr>
-  </table>
+    </tr>-->
 
 <p align="left"> <a href="https://twitter.com/yephussainhere" target="blank"><img src="https://img.shields.io/twitter/follow/yephussainhere?logo=twitter&style=for-the-badge" alt="yephussainhere" /></a> </p>
 
