@@ -103,13 +103,11 @@
 
 </div>
 
----
-
 ## Languages and Tools:
 
 <p align="left"> <a href="https://github.com/hussainahmad21200612"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,express,git,github,nodejs,mongodb,atom,vscode"> </a> </p>
 
-## My Top Languages:
+<!--## My Top Languages:
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hussainahmad21200612&layout=compact&theme=gruvbox&hide_border=true" /> </p> 
 
 ## My Stats: 
@@ -127,7 +125,7 @@
 [![RAaHH](https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=RAaHH&theme=gruvbox&hide_border=true)](https://github.com/hussainahmad21200612/RAaHH)
 
 [![Xlate](https://github-readme-stats.vercel.app/api/pin/?username=hussainahmad21200612&repo=Xlate&theme=gruvbox&hide_border=true)](https://github.com/hussainahmad21200612/Xlate)
-  
+-->
 ## 📈 My GitHub Contributions with some animations 🐍
 
  <!-- <p align="center"><img src="https://github.com/hussainahmad21200612/hussainahmad21200612/blob/output/github-contribution-grid-snake-dark.svg" alt="hussainahmad21200612"  /></p>-->
